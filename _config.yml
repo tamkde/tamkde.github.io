@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tamkde.github.io
+title: tamkde..
+email: niekto@gmail.com
+author: tamkde
+description: v indii
+paginate: 3
+google_analytics: 
